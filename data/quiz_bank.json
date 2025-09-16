@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "id": "q1_interest",
+      "text": "Which area interests you most?",
+      "type": "single",
+      "options": [
+        "Working with data and numbers",
+        "Designing user interfaces",
+        "Cybersecurity and protecting systems"
+      ]
+    },
+    {
+      "id": "q2_aptitude",
+      "text": "Pick the statement that describes you best:",
+      "type": "single",
+      "options": [
+        "I enjoy finding patterns in spreadsheets",
+        "I love sketching UI ideas",
+        "I like solving security puzzles"
+      ]
+    },
+    {
+      "id": "q3_hours",
+      "text": "How many hours per week can you learn?",
+      "type": "single",
+      "options": [
+        "<3",
+        "3-5",
+        "6-8",
+        "9-12",
+        "12+"
+      ]
+    },
+    {
+      "id": "q4_budget",
+      "text": "What\u2019s your monthly learning budget (INR)?",
+      "type": "single",
+      "options": [
+        "0",
+        "500-1000",
+        "1000-3000",
+        "3000+"
+      ]
+    },
+    {
+      "id": "q5_city",
+      "text": "Where are you located?",
+      "type": "single",
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Pune",
+        "Delhi NCR",
+        "Other"
+      ]
+    },
+    {
+      "id": "q6_style",
+      "text": "Preferred learning style?",
+      "type": "single",
+      "options": [
+        "Videos",
+        "Reading articles",
+        "Hands-on practice"
+      ]
+    },
+    {
+      "id": "q7_skill",
+      "text": "Pick a skill you already have (or closest):",
+      "type": "single",
+      "options": [
+        "Excel basics",
+        "Figma basics",
+        "Linux basics",
+        "None"
+      ]
+    },
+    {
+      "id": "q8_goal",
+      "text": "What\u2019s your main goal in 3 months?",
+      "type": "free"
+    },
+    {
+      "id": "q9_lang",
+      "text": "Language preference?",
+      "type": "single",
+      "options": [
+        "English",
+        "Hinglish",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "q10_free",
+      "text": "Anything else you want the coach to know?",
+      "type": "free"
+    }
+  ]
+}

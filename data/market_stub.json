@@ -1,0 +1,62 @@
+{
+  "market": {
+    "data_analyst": {
+      "demand_score": 8.2,
+      "growth_rate": "steady",
+      "avg_time_to_hire_weeks": 6,
+      "top_companies": [
+        "TCS",
+        "Accenture",
+        "Flipkart",
+        "Swiggy"
+      ],
+      "hot_skills_up": [
+        "sql",
+        "excel",
+        "python",
+        "storytelling"
+      ],
+      "cooling_skills": [
+        "manual_reporting_only"
+      ]
+    },
+    "ui_ux_designer": {
+      "demand_score": 7.5,
+      "growth_rate": "rising",
+      "avg_time_to_hire_weeks": 7,
+      "top_companies": [
+        "Zomato",
+        "Paytm",
+        "Zoho",
+        "Freshworks"
+      ],
+      "hot_skills_up": [
+        "figma",
+        "user_research",
+        "prototyping"
+      ],
+      "cooling_skills": [
+        "static_mockups_only"
+      ]
+    },
+    "cybersecurity_analyst": {
+      "demand_score": 8.7,
+      "growth_rate": "rising",
+      "avg_time_to_hire_weeks": 5,
+      "top_companies": [
+        "Infosys",
+        "Deloitte",
+        "Wipro",
+        "IBM"
+      ],
+      "hot_skills_up": [
+        "siem_basics",
+        "linux",
+        "incident_response"
+      ],
+      "cooling_skills": [
+        "legacy_onprem_only"
+      ]
+    }
+  }
+}

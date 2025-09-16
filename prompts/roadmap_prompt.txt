@@ -1,0 +1,15 @@
+Create an **8-week adaptive plan** tailored to an Indian student for the career: [[CAREER]].
+Context:
+- Student profile: [[PROFILE_JSON]]
+- Constraints: [[TIME_BUDGET_LOCATION_LEARNING_STYLE]]
+- Market: [[DEMAND_AND_HOT_SKILLS]]
+
+For each week (1–8), include:
+- Concept focus
+- 1–2 specific resources (prefer free/low-cost)
+- One practice task
+- One mini-project idea
+
+End with:
+- 5 mock interview questions
+- 3 resume bullet points they can earn by completing the plan

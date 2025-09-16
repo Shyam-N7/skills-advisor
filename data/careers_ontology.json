@@ -1,0 +1,150 @@
+{
+  "careers": [
+    {
+      "id": "data_analyst",
+      "title": "Data Analyst",
+      "summary": "Analyze data to produce insights, dashboards, and reports supporting business decisions.",
+      "skills_required": {
+        "L1": [
+          "excel",
+          "sql",
+          "statistics_basics"
+        ],
+        "L2": [
+          "python",
+          "pandas",
+          "data_cleaning",
+          "data_visualization"
+        ],
+        "L3": [
+          "storytelling",
+          "dashboarding",
+          "business_context"
+        ]
+      },
+      "starter_projects": [
+        "Sales dashboard in Excel",
+        "Cohort analysis in Python (pandas)"
+      ],
+      "starter_courses": [
+        "Google Data Analytics (Coursera)",
+        "Statistics 101 (Khan Academy)",
+        "FreeCodeCamp SQL"
+      ],
+      "entry_titles": [
+        "Junior Data Analyst",
+        "Business Analyst (Entry)"
+      ],
+      "salary_range_inr": {
+        "junior": "4\u20137 LPA"
+      },
+      "metros": [
+        "Bengaluru",
+        "Hyderabad",
+        "Pune",
+        "Gurugram"
+      ],
+      "growth_roles": [
+        "Senior Analyst",
+        "Analytics Engineer",
+        "Data Scientist"
+      ]
+    },
+    {
+      "id": "ui_ux_designer",
+      "title": "UI/UX Designer",
+      "summary": "Design user-centered interfaces, conduct research, create wireframes and prototypes.",
+      "skills_required": {
+        "L1": [
+          "ux_principles",
+          "visual_design_basics",
+          "figma_basics"
+        ],
+        "L2": [
+          "wireframing",
+          "prototyping",
+          "user_research"
+        ],
+        "L3": [
+          "usability_testing",
+          "design_systems",
+          "handoff"
+        ]
+      },
+      "starter_projects": [
+        "Redesign a college app landing page",
+        "Prototype a simple to-do app in Figma"
+      ],
+      "starter_courses": [
+        "Google UX Design (Coursera)",
+        "Figma for Beginners (YouTube)"
+      ],
+      "entry_titles": [
+        "Junior UX Designer",
+        "Product Design Intern"
+      ],
+      "salary_range_inr": {
+        "junior": "3.5\u20136 LPA"
+      },
+      "metros": [
+        "Bengaluru",
+        "Mumbai",
+        "Pune",
+        "Delhi NCR"
+      ],
+      "growth_roles": [
+        "Product Designer",
+        "UX Researcher",
+        "Design Lead"
+      ]
+    },
+    {
+      "id": "cybersecurity_analyst",
+      "title": "Cybersecurity Analyst",
+      "summary": "Monitor and secure systems, identify vulnerabilities, respond to incidents.",
+      "skills_required": {
+        "L1": [
+          "network_basics",
+          "linux_basics",
+          "security_fundamentals"
+        ],
+        "L2": [
+          "siem_basics",
+          "threat_detection",
+          "scripting_basics"
+        ],
+        "L3": [
+          "incident_response",
+          "vulnerability_assessment",
+          "cloud_security_basics"
+        ]
+      },
+      "starter_projects": [
+        "Secure a Linux VM (basic hardening)",
+        "Analyze sample logs with a SIEM-like workflow"
+      ],
+      "starter_courses": [
+        "Google Cybersecurity (Coursera)",
+        "TryHackMe Intro Rooms"
+      ],
+      "entry_titles": [
+        "SOC Analyst (L1)",
+        "Cybersecurity Trainee"
+      ],
+      "salary_range_inr": {
+        "junior": "4\u20137.5 LPA"
+      },
+      "metros": [
+        "Hyderabad",
+        "Bengaluru",
+        "Pune",
+        "Chennai"
+      ],
+      "growth_roles": [
+        "SOC Analyst L2/L3",
+        "Security Engineer",
+        "Cloud Security Analyst"
+      ]
+    }
+  ]
+}
