@@ -437,7 +437,7 @@ with tab3:
                     with st.expander(f"Week {week_data['week']}: {week_data['focus']}", expanded=week_data['week'] <= 2):
                         st.markdown(f"""
                         <div class="roadmap-week">
-                            <h4>Focus: {week_data['focus']}</h4>
+                            <h4 style="color: black;">Focus: {week_data['focus']}</h4>
                             <p><strong>Time Allocation:</strong> {week_data.get('time_allocation', '5-7 hours')}</p>
                         </div>
                         """, unsafe_allow_html=True)
