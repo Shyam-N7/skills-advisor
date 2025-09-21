@@ -212,7 +212,7 @@ with tab1:
                     with st.container():
                         st.markdown(f"""
                         <div class="recommendation-card">
-                            <h3>#{idx}. {item['title']}</h3>
+                            <h3 style="color: black;">#{idx}. {item['title']}</h3>
                         </div>
                         """, unsafe_allow_html=True)
                         
