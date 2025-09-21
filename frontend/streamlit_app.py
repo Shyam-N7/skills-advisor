@@ -516,6 +516,6 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; margin-top: 2rem;">
     <p><strong>AI Career Advisor</strong> - Empowering your tech career journey in India</p>
-    <p>Built with ❤️ using FastAPI & Streamlit | <a href="{}" target="_blank">View API Docs</a></p>
+    <p>Built with ❤️ using FastAPI & Streamlit</p>
 </div>
-""".format(backend_url + "/docs"), unsafe_allow_html=True)
+""", unsafe_allow_html=True)
