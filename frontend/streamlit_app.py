@@ -59,7 +59,7 @@ st.markdown("""
 st.sidebar.title("Settings")
 backend_url = st.sidebar.text_input(
     "Backend URL", 
-    value="http://localhost:8000",
+    value="https://skills-advisor.onrender.com",
     help="Change this to your deployed API URL"
 )
 
@@ -120,8 +120,7 @@ with tab1:
                     "excel", "sql", "statistics_basics", "python", "pandas", 
                     "data_visualization", "ux_principles", "visual_design_basics",
                     "figma_basics", "wireframing", "prototyping", "linux_basics",
-                    "network_basics", "security_fundamentals", "siem_basics",
-                    "scripting_basics"
+                    "network_basics", "security_fundamentals", "siem_basics"
                 ],
                 help="Be honest - we'll help you bridge any gaps"
             )
