@@ -38,7 +38,7 @@ st.markdown("""
     }
     .success-metric {
         background: #d4edda;
-        color: #fff;
+        color: #000;
         padding: 0.5rem;
         border-radius: 5px;
         margin: 0.2rem 0;
@@ -51,6 +51,9 @@ st.markdown("""
         border-radius: 8px;
         margin: 0.5rem 0;
         border-left: 4px solid #007bff;
+    }
+    h3, h4{
+        color: black;    
     }
 </style>
 """, unsafe_allow_html=True)
