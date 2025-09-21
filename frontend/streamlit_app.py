@@ -33,6 +33,7 @@ st.markdown("""
         border-radius: 10px;
         padding: 1.5rem;
         margin: 1rem 0;
+        color: black;
         background: #fafafa;
     }
     .success-metric {
@@ -45,6 +46,7 @@ st.markdown("""
     }
     .roadmap-week {
         background: #f8f9fa;
+        color: black;
         padding: 1rem;
         border-radius: 8px;
         margin: 0.5rem 0;
