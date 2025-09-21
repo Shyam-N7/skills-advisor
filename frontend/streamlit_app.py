@@ -119,7 +119,7 @@ with tab1:
                     "data_visualization", "ux_principles", "visual_design_basics",
                     "figma_basics", "wireframing", "prototyping", "linux_basics",
                     "network_basics", "security_fundamentals", "siem_basics",
-                    "scripting_basics", "data_cleaning"
+                    "scripting_basics"
                 ],
                 help="Be honest - we'll help you bridge any gaps"
             )
