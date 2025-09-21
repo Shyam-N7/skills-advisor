@@ -52,9 +52,6 @@ st.markdown("""
         margin: 0.5rem 0;
         border-left: 4px solid #007bff;
     }
-    h3, h4{
-        color: black;    
-    }
 </style>
 """, unsafe_allow_html=True)
 
